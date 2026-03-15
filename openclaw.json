@@ -1,0 +1,9 @@
+{
+  "channel": "feishu",
+  "feishu": {
+    "appId": "cli_a925b88e54b89cce",
+    "appSecret": "fPvxM5wA2As3gXoQuuHjkedf6lXPAwlf",
+    "domain": "feishu",
+    "enabled": true
+  }
+}

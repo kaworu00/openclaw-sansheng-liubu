@@ -1,0 +1,910 @@
+[
+  {
+    "id": "JJC-20260314-001",
+    "title": "知识库每日回顾",
+    "official": "中书令",
+    "org": "中书省",
+    "state": "Done",
+    "now": "知识库每日回顾已完成，5条进化建议已整理",
+    "eta": "-",
+    "block": "无",
+    "output": "-",
+    "ac": "",
+    "flow_log": [
+      {
+        "at": "2026-03-14T14:02:17.692225Z",
+        "from": "皇上",
+        "to": "中书省",
+        "remark": "下旨：知识库每日回顾"
+      },
+      {
+        "at": "2026-03-14T14:03:16.355205Z",
+        "from": "中书省",
+        "to": "皇上",
+        "remark": "✅ 完成：知识库每日回顾完成，整理5条进化建议"
+      }
+    ],
+    "updatedAt": "2026-03-14T14:03:19.970529Z",
+    "todos": [
+      {
+        "id": "1",
+        "title": "分析知识库",
+        "status": "completed"
+      },
+      {
+        "id": "2",
+        "title": "调用尚书省",
+        "status": "completed"
+      },
+      {
+        "id": "3",
+        "title": "整理建议",
+        "status": "completed"
+      },
+      {
+        "id": "4",
+        "title": "回奏",
+        "status": "completed"
+      }
+    ],
+    "progress_log": [
+      {
+        "at": "2026-03-14T14:02:20.795962Z",
+        "agent": "zhongshu",
+        "agentLabel": "中书省",
+        "text": "正在分析知识库内容，调用尚书省讨论进化建议",
+        "todos": [
+          {
+            "id": "1",
+            "title": "分析知识库",
+            "status": "in-progress"
+          },
+          {
+            "id": "2",
+            "title": "调用尚书省",
+            "status": "not-started"
+          },
+          {
+            "id": "3",
+            "title": "整理建议",
+            "status": "not-started"
+          },
+          {
+            "id": "4",
+            "title": "回奏",
+            "status": "not-started"
+          }
+        ],
+        "state": "Zhongshu",
+        "org": "中书省"
+      },
+      {
+        "at": "2026-03-14T14:03:13.280025Z",
+        "agent": "zhongshu",
+        "agentLabel": "中书省",
+        "text": "收到尚书省进化建议，正在整理",
+        "todos": [
+          {
+            "id": "1",
+            "title": "分析知识库",
+            "status": "completed"
+          },
+          {
+            "id": "2",
+            "title": "调用尚书省",
+            "status": "completed"
+          },
+          {
+            "id": "3",
+            "title": "整理建议",
+            "status": "in-progress"
+          },
+          {
+            "id": "4",
+            "title": "回奏",
+            "status": "not-started"
+          }
+        ],
+        "state": "Zhongshu",
+        "org": "中书省"
+      },
+      {
+        "at": "2026-03-14T14:03:19.970529Z",
+        "agent": "zhongshu",
+        "agentLabel": "中书省",
+        "text": "知识库每日回顾已完成，5条进化建议已整理",
+        "todos": [
+          {
+            "id": "1",
+            "title": "分析知识库",
+            "status": "completed"
+          },
+          {
+            "id": "2",
+            "title": "调用尚书省",
+            "status": "completed"
+          },
+          {
+            "id": "3",
+            "title": "整理建议",
+            "status": "completed"
+          },
+          {
+            "id": "4",
+            "title": "回奏",
+            "status": "completed"
+          }
+        ],
+        "state": "Done",
+        "org": "中书省"
+      }
+    ]
+  },
+  {
+    "id": "JJC-20260313-001",
+    "title": "知识库每日回顾-进化建议",
+    "official": "中书令",
+    "org": "中书省",
+    "state": "Done",
+    "now": "知识库每日回顾完成",
+    "eta": "-",
+    "block": "无",
+    "output": "5条进化建议已整理",
+    "ac": "",
+    "flow_log": [
+      {
+        "at": "2026-03-13T14:02:38.162648Z",
+        "from": "皇上",
+        "to": "中书省",
+        "remark": "下旨：知识库每日回顾-进化建议"
+      },
+      {
+        "at": "2026-03-13T14:03:36.103325Z",
+        "from": "中书省",
+        "to": "皇上",
+        "remark": "✅ 完成：知识库每日回顾完成"
+      }
+    ],
+    "updatedAt": "2026-03-13T14:03:36.103345Z",
+    "todos": [
+      {
+        "id": "1",
+        "title": "盘点知识库",
+        "status": "completed"
+      },
+      {
+        "id": "2",
+        "title": "分析价值",
+        "status": "completed"
+      },
+      {
+        "id": "3",
+        "title": "尚书省审议",
+        "status": "completed"
+      },
+      {
+        "id": "4",
+        "title": "整理建议📜",
+        "status": "not-started"
+      }
+    ],
+    "progress_log": [
+      {
+        "at": "2026-03-13T14:02:53.821324Z",
+        "agent": "zhongshu",
+        "agentLabel": "中书省",
+        "text": "正在分析知识库内容，制定进化建议",
+        "todos": [
+          {
+            "id": "1",
+            "title": "盘点知识库",
+            "status": "in-progress"
+          },
+          {
+            "id": "2",
+            "title": "分析价值📋",
+            "status": "not-started"
+          },
+          {
+            "id": "3",
+            "title": "尚书省审议💬",
+            "status": "not-started"
+          },
+          {
+            "id": "4",
+            "title": "整理建议📜",
+            "status": "not-started"
+          }
+        ],
+        "state": "Zhongshu",
+        "org": "中书省"
+      },
+      {
+        "at": "2026-03-13T14:03:33.092487Z",
+        "agent": "zhongshu",
+        "agentLabel": "中书省",
+        "text": "正在整理进化建议",
+        "todos": [
+          {
+            "id": "1",
+            "title": "盘点知识库",
+            "status": "completed"
+          },
+          {
+            "id": "2",
+            "title": "分析价值",
+            "status": "completed"
+          },
+          {
+            "id": "3",
+            "title": "尚书省审议",
+            "status": "completed"
+          },
+          {
+            "id": "4",
+            "title": "整理建议📜",
+            "status": "not-started"
+          }
+        ],
+        "state": "Zhongshu",
+        "org": "中书省"
+      }
+    ]
+  },
+  {
+    "id": "JJC-20260312-005",
+    "title": "配置知识库每日回顾",
+    "official": "尚书令",
+    "org": "尚书省",
+    "state": "Done",
+    "now": "知识库每日回顾已配置，每晚10点推送",
+    "eta": "-",
+    "block": "无",
+    "output": "",
+    "ac": "",
+    "flow_log": [
+      {
+        "at": "2026-03-12T14:28:11.364910Z",
+        "from": "皇上",
+        "to": "尚书省",
+        "remark": "下旨：配置知识库每日回顾"
+      },
+      {
+        "at": "2026-03-12T14:30:17.366180Z",
+        "from": "尚书省",
+        "to": "皇上",
+        "remark": "✅ 完成：知识库每日回顾已配置，每晚10点推送"
+      }
+    ],
+    "updatedAt": "2026-03-12T14:30:17.366200Z"
+  },
+  {
+    "id": "JJC-20260312-004",
+    "title": "部署微信文章抓取工具",
+    "official": "中书令",
+    "org": "尚书省",
+    "state": "Done",
+    "now": "微信文章抓取工具已部署完成",
+    "eta": "-",
+    "block": "无",
+    "output": "",
+    "ac": "",
+    "flow_log": [
+      {
+        "at": "2026-03-12T13:58:27.256709Z",
+        "from": "皇上",
+        "to": "中书省",
+        "remark": "下旨：部署微信文章抓取工具"
+      },
+      {
+        "at": "2026-03-12T13:58:33.003841Z",
+        "from": "中书省",
+        "to": "门下省",
+        "remark": "📋 方案提交审议"
+      },
+      {
+        "at": "2026-03-12T13:59:50.445383Z",
+        "from": "中书省",
+        "to": "尚书省",
+        "remark": "✅ 门下准奏，转尚书省派发"
+      },
+      {
+        "at": "2026-03-12T14:01:18.817269Z",
+        "from": "尚书省",
+        "to": "皇上",
+        "remark": "✅ 完成：微信文章抓取工具已部署完成"
+      }
+    ],
+    "updatedAt": "2026-03-12T14:01:18.817289Z"
+  },
+  {
+    "id": "JJC-20260312-003",
+    "title": "收录文章到知识库",
+    "official": "中书令",
+    "org": "中书省",
+    "state": "Zhongshu",
+    "now": "中书省已接旨",
+    "eta": "-",
+    "block": "无",
+    "output": "",
+    "ac": "",
+    "flow_log": [
+      {
+        "at": "2026-03-12T13:22:04.879700Z",
+        "from": "皇上",
+        "to": "中书省",
+        "remark": "下旨：收录文章到知识库"
+      }
+    ],
+    "updatedAt": "2026-03-12T13:22:19.483606Z"
+  },
+  {
+    "id": "JJC-20260312-002",
+    "title": "个人知识库初始化",
+    "official": "尚书令",
+    "org": "尚书省",
+    "state": "Assigned",
+    "now": "尚书省正在执行初始化任务",
+    "eta": "-",
+    "block": "无",
+    "output": "",
+    "ac": "",
+    "flow_log": [
+      {
+        "at": "2026-03-12T09:57:10.981310Z",
+        "from": "皇上",
+        "to": "尚书省",
+        "remark": "下旨：个人知识库初始化"
+      }
+    ],
+    "updatedAt": "2026-03-12T09:57:20.369472Z",
+    "todos": [
+      {
+        "id": "1",
+        "title": "配置飞书机器人",
+        "status": "in-progress"
+      },
+      {
+        "id": "2",
+        "title": "创建Vault",
+        "status": "in-progress"
+      },
+      {
+        "id": "3",
+        "title": "开发处理流程",
+        "status": "in-progress"
+      },
+      {
+        "id": "4",
+        "title": "配置定时提醒",
+        "status": "in-progress"
+      },
+      {
+        "id": "5",
+        "title": "错误处理",
+        "status": "in-progress"
+      }
+    ],
+    "progress_log": [
+      {
+        "at": "2026-03-12T09:57:20.369472Z",
+        "agent": "zhongshu",
+        "agentLabel": "中书省",
+        "text": "尚书省正在执行初始化任务",
+        "todos": [
+          {
+            "id": "1",
+            "title": "配置飞书机器人",
+            "status": "in-progress"
+          },
+          {
+            "id": "2",
+            "title": "创建Vault",
+            "status": "in-progress"
+          },
+          {
+            "id": "3",
+            "title": "开发处理流程",
+            "status": "in-progress"
+          },
+          {
+            "id": "4",
+            "title": "配置定时提醒",
+            "status": "in-progress"
+          },
+          {
+            "id": "5",
+            "title": "错误处理",
+            "status": "in-progress"
+          }
+        ],
+        "state": "Assigned",
+        "org": "尚书省"
+      }
+    ]
+  },
+  {
+    "id": "JJC-20260312-001",
+    "title": "个人知识库系统技术方案",
+    "official": "中书令",
+    "org": "尚书省",
+    "state": "Done",
+    "now": "收到六部执行结果，已完成回奏",
+    "eta": "-",
+    "block": "无",
+    "output": "data/JJC-20260312-001派发令.md",
+    "ac": "",
+    "flow_log": [
+      {
+        "at": "2026-03-12T06:58:51.696479Z",
+        "from": "皇上",
+        "to": "中书省",
+        "remark": "下旨：个人知识库系统技术方案"
+      },
+      {
+        "at": "2026-03-12T06:59:09.241108Z",
+        "from": "中书省",
+        "to": "门下省",
+        "remark": "📋 方案提交审议"
+      },
+      {
+        "at": "2026-03-12T07:00:17.835410Z",
+        "from": "中书省",
+        "to": "尚书省",
+        "remark": "✅ 门下准奏，转尚书省派发"
+      },
+      {
+        "at": "2026-03-12T07:01:09.149376Z",
+        "from": "中书省",
+        "to": "尚书省",
+        "remark": "✅ 门下准奏，尚书省已接令派发"
+      },
+      {
+        "at": "2026-03-12T07:01:21.933158Z",
+        "from": "尚书省",
+        "to": "皇上",
+        "remark": "✅ 完成：任务已分配至六部：兵部-飞书机器人、工部-vault结构、吏部-内容处理、礼部-定时提醒、刑部-错误处理、户部-测试协调。详细派发令已保存。项目仓库位于太子本地 Mac，需太子本地执行。"
+      },
+      {
+        "at": "2026-03-12T07:01:37.676555Z",
+        "from": "尚书省",
+        "to": "皇上",
+        "remark": "✅ 完成：尚书省已完成派发：兵部配置飞书机器人、工部搭建Obsidian vault、吏部开发内容处理流程、礼部开发定时回顾、刑部负责错误处理、户部整体测试。"
+      }
+    ],
+    "updatedAt": "2026-03-12T07:01:41.785419Z",
+    "todos": [
+      {
+        "id": "1",
+        "title": "分析旨意",
+        "status": "completed"
+      },
+      {
+        "id": "2",
+        "title": "起草方案",
+        "status": "completed"
+      },
+      {
+        "id": "3",
+        "title": "门下审议",
+        "status": "completed"
+      },
+      {
+        "id": "4",
+        "title": "尚书执行",
+        "status": "completed"
+      },
+      {
+        "id": "5",
+        "title": "回奏皇上",
+        "status": "completed"
+      }
+    ],
+    "progress_log": [
+      {
+        "at": "2026-03-12T06:59:03.804175Z",
+        "agent": "zhongshu",
+        "agentLabel": "中书省",
+        "text": "方案起草中：确定技术路线和实施步骤",
+        "todos": [
+          {
+            "id": "1",
+            "title": "分析旨意",
+            "status": "completed"
+          },
+          {
+            "id": "2",
+            "title": "起草方案",
+            "status": "in-progress"
+          },
+          {
+            "id": "3",
+            "title": "门下审议",
+            "status": "not-started"
+          },
+          {
+            "id": "4",
+            "title": "尚书执行",
+            "status": "not-started"
+          },
+          {
+            "id": "5",
+            "title": "回奏皇上",
+            "status": "not-started"
+          }
+        ],
+        "state": "Zhongshu",
+        "org": "中书省"
+      },
+      {
+        "at": "2026-03-12T06:59:15.012144Z",
+        "agent": "zhongshu",
+        "agentLabel": "中书省",
+        "text": "方案已起草，提交门下省审议",
+        "todos": [
+          {
+            "id": "1",
+            "title": "分析旨意",
+            "status": "completed"
+          },
+          {
+            "id": "2",
+            "title": "起草方案",
+            "status": "completed"
+          },
+          {
+            "id": "3",
+            "title": "门下审议",
+            "status": "in-progress"
+          },
+          {
+            "id": "4",
+            "title": "尚书执行",
+            "status": "not-started"
+          },
+          {
+            "id": "5",
+            "title": "回奏皇上",
+            "status": "not-started"
+          }
+        ],
+        "state": "Menxia",
+        "org": "门下省"
+      },
+      {
+        "at": "2026-03-12T06:59:48.100035Z",
+        "agent": "zhongshu",
+        "agentLabel": "中书省",
+        "text": "收到门下省反馈，正在修改方案",
+        "todos": [
+          {
+            "id": "1",
+            "title": "分析旨意",
+            "status": "completed"
+          },
+          {
+            "id": "2",
+            "title": "起草方案",
+            "status": "in-progress"
+          },
+          {
+            "id": "3",
+            "title": "门下审议",
+            "status": "in-progress"
+          },
+          {
+            "id": "4",
+            "title": "尚书执行",
+            "status": "not-started"
+          },
+          {
+            "id": "5",
+            "title": "回奏皇上",
+            "status": "not-started"
+          }
+        ],
+        "state": "Menxia",
+        "org": "门下省"
+      },
+      {
+        "at": "2026-03-12T07:00:21.374912Z",
+        "agent": "zhongshu",
+        "agentLabel": "中书省",
+        "text": "门下省已准奏，正在调用尚书省派发执行",
+        "todos": [
+          {
+            "id": "1",
+            "title": "分析旨意",
+            "status": "completed"
+          },
+          {
+            "id": "2",
+            "title": "起草方案",
+            "status": "completed"
+          },
+          {
+            "id": "3",
+            "title": "门下审议",
+            "status": "completed"
+          },
+          {
+            "id": "4",
+            "title": "尚书执行",
+            "status": "in-progress"
+          },
+          {
+            "id": "5",
+            "title": "回奏皇上",
+            "status": "not-started"
+          }
+        ],
+        "state": "Assigned",
+        "org": "尚书省"
+      },
+      {
+        "at": "2026-03-12T07:00:54.507034Z",
+        "agent": "zhongshu",
+        "agentLabel": "中书省",
+        "text": "尚书省正在拆解任务，派发给六部",
+        "todos": [
+          {
+            "id": "1",
+            "title": "分析旨意",
+            "status": "completed"
+          },
+          {
+            "id": "2",
+            "title": "起草方案",
+            "status": "completed"
+          },
+          {
+            "id": "3",
+            "title": "门下审议",
+            "status": "completed"
+          },
+          {
+            "id": "4",
+            "title": "尚书执行",
+            "status": "in-progress"
+          },
+          {
+            "id": "5",
+            "title": "回奏皇上",
+            "status": "not-started"
+          }
+        ],
+        "state": "Assigned",
+        "org": "尚书省"
+      },
+      {
+        "at": "2026-03-12T07:01:25.764510Z",
+        "agent": "zhongshu",
+        "agentLabel": "中书省",
+        "text": "尚书省已完成派发，等待太子本地执行",
+        "todos": [
+          {
+            "id": "1",
+            "title": "分析旨意",
+            "status": "completed"
+          },
+          {
+            "id": "2",
+            "title": "起草方案",
+            "status": "completed"
+          },
+          {
+            "id": "3",
+            "title": "门下审议",
+            "status": "completed"
+          },
+          {
+            "id": "4",
+            "title": "尚书执行",
+            "status": "completed"
+          },
+          {
+            "id": "5",
+            "title": "回奏皇上",
+            "status": "not-started"
+          }
+        ],
+        "state": "Done",
+        "org": "尚书省"
+      },
+      {
+        "at": "2026-03-12T07:01:41.785419Z",
+        "agent": "zhongshu",
+        "agentLabel": "中书省",
+        "text": "收到六部执行结果，已完成回奏",
+        "todos": [
+          {
+            "id": "1",
+            "title": "分析旨意",
+            "status": "completed"
+          },
+          {
+            "id": "2",
+            "title": "起草方案",
+            "status": "completed"
+          },
+          {
+            "id": "3",
+            "title": "门下审议",
+            "status": "completed"
+          },
+          {
+            "id": "4",
+            "title": "尚书执行",
+            "status": "completed"
+          },
+          {
+            "id": "5",
+            "title": "回奏皇上",
+            "status": "completed"
+          }
+        ],
+        "state": "Done",
+        "org": "尚书省"
+      }
+    ]
+  },
+  {
+    "id": "JJC-20260310-999",
+    "title": "太子飞书发言",
+    "official": "尚书令",
+    "org": "尚书省",
+    "state": "Done",
+    "now": "太子已向皇上请安：'太子在此，有何差遣？🐎'",
+    "eta": "-",
+    "block": "无",
+    "output": "消息ID: om_x100b5437b51354a4c14388edb7a859c",
+    "ac": "",
+    "flow_log": [
+      {
+        "at": "2026-03-10T15:58:36.855651Z",
+        "from": "皇上",
+        "to": "尚书省",
+        "remark": "下旨：太子飞书发言"
+      },
+      {
+        "at": "2026-03-10T15:58:41.802491Z",
+        "from": "中书省",
+        "to": "尚书省",
+        "remark": "📋 派太子飞书发言"
+      },
+      {
+        "at": "2026-03-10T15:59:01.074085Z",
+        "from": "尚书省",
+        "to": "皇上",
+        "remark": "✅ 完成：太子已向皇上请安：'太子在此，有何差遣？🐎'"
+      }
+    ],
+    "updatedAt": "2026-03-10T15:59:01.074108Z"
+  },
+  {
+    "id": "JJC-20260308-002",
+    "title": "测试旨意2-门下省审核机制测试",
+    "official": "中书令",
+    "org": "门下省",
+    "state": "Menxia",
+    "now": "方案已提交门下省审议，等待审批结果",
+    "eta": "-",
+    "block": "无",
+    "output": "",
+    "ac": "",
+    "flow_log": [
+      {
+        "at": "2026-03-07T18:14:46.665430Z",
+        "from": "皇上",
+        "to": "中书省",
+        "remark": "下旨：测试旨意2-门下省审核机制测试"
+      },
+      {
+        "at": "2026-03-07T18:15:00.501383Z",
+        "from": "中书省",
+        "to": "门下省",
+        "remark": "📋 方案提交审议"
+      }
+    ],
+    "updatedAt": "2026-03-07T18:15:32.420788Z",
+    "todos": [
+      {
+        "id": "1",
+        "title": "分析旨意",
+        "status": "completed"
+      },
+      {
+        "id": "2",
+        "title": "起草方案",
+        "status": "completed"
+      },
+      {
+        "id": "3",
+        "title": "门下审议",
+        "status": "in-progress"
+      },
+      {
+        "id": "4",
+        "title": "尚书执行",
+        "status": "not-started"
+      },
+      {
+        "id": "5",
+        "title": "回奏皇上",
+        "status": "not-started"
+      }
+    ],
+    "progress_log": [
+      {
+        "at": "2026-03-07T18:14:54.477155Z",
+        "agent": "zhongshu",
+        "agentLabel": "中书省",
+        "text": "正在起草测试方案，准备提交门下省审议",
+        "todos": [
+          {
+            "id": "1",
+            "title": "分析旨意",
+            "status": "completed"
+          },
+          {
+            "id": "2",
+            "title": "起草方案",
+            "status": "in-progress"
+          },
+          {
+            "id": "3",
+            "title": "门下审议",
+            "status": "not-started"
+          },
+          {
+            "id": "4",
+            "title": "尚书执行",
+            "status": "not-started"
+          },
+          {
+            "id": "5",
+            "title": "回奏皇上",
+            "status": "not-started"
+          }
+        ],
+        "state": "Zhongshu",
+        "org": "中书省"
+      },
+      {
+        "at": "2026-03-07T18:15:32.420788Z",
+        "agent": "zhongshu",
+        "agentLabel": "中书省",
+        "text": "方案已提交门下省审议，等待审批结果",
+        "todos": [
+          {
+            "id": "1",
+            "title": "分析旨意",
+            "status": "completed"
+          },
+          {
+            "id": "2",
+            "title": "起草方案",
+            "status": "completed"
+          },
+          {
+            "id": "3",
+            "title": "门下审议",
+            "status": "in-progress"
+          },
+          {
+            "id": "4",
+            "title": "尚书执行",
+            "status": "not-started"
+          },
+          {
+            "id": "5",
+            "title": "回奏皇上",
+            "status": "not-started"
+          }
+        ],
+        "state": "Menxia",
+        "org": "门下省"
+      }
+    ]
+  }
+]
