@@ -1,8 +1,296 @@
 {
-  "generatedAt": "2026-03-15 10:08:15",
+  "generatedAt": "2026-03-15 22:07:56",
   "taskSource": "tasks_source.json",
   "officials": [],
   "tasks": [
+    {
+      "id": "JJC-20260315-003",
+      "title": "三审工作流+CLI-Anything落地",
+      "official": "中书令",
+      "org": "中书省",
+      "state": "Zhongshu",
+      "now": "调研完成，正在起草落地方案",
+      "eta": "-",
+      "block": "无",
+      "output": "",
+      "ac": "",
+      "flow_log": [
+        {
+          "at": "2026-03-15T14:07:12.984579Z",
+          "from": "皇上",
+          "to": "中书省",
+          "remark": "下旨：三审工作流+CLI-Anything落地"
+        }
+      ],
+      "updatedAt": "2026-03-15T14:07:56.579179Z",
+      "todos": [
+        {
+          "id": "1",
+          "title": "调研现状",
+          "status": "completed"
+        },
+        {
+          "id": "2",
+          "title": "起草方案",
+          "status": "not-started"
+        },
+        {
+          "id": "3",
+          "title": "提交审议",
+          "status": "not-started"
+        },
+        {
+          "id": "4",
+          "title": "尚书执行",
+          "status": "not-started"
+        },
+        {
+          "id": "5",
+          "title": "回奏",
+          "status": "not-started"
+        }
+      ],
+      "progress_log": [
+        {
+          "at": "2026-03-15T14:07:17.507232Z",
+          "agent": "zhongshu",
+          "agentLabel": "中书省",
+          "text": "正在调研三审工作流现状",
+          "todos": [
+            {
+              "id": "1",
+              "title": "调研现状",
+              "status": "not-started"
+            },
+            {
+              "id": "2",
+              "title": "起草方案",
+              "status": "not-started"
+            },
+            {
+              "id": "3",
+              "title": "提交审议",
+              "status": "not-started"
+            },
+            {
+              "id": "4",
+              "title": "尚书执行",
+              "status": "not-started"
+            },
+            {
+              "id": "5",
+              "title": "回奏",
+              "status": "not-started"
+            }
+          ],
+          "state": "Zhongshu",
+          "org": "中书省"
+        },
+        {
+          "at": "2026-03-15T14:07:56.579179Z",
+          "agent": "zhongshu",
+          "agentLabel": "中书省",
+          "text": "调研完成，正在起草落地方案",
+          "todos": [
+            {
+              "id": "1",
+              "title": "调研现状",
+              "status": "completed"
+            },
+            {
+              "id": "2",
+              "title": "起草方案",
+              "status": "not-started"
+            },
+            {
+              "id": "3",
+              "title": "提交审议",
+              "status": "not-started"
+            },
+            {
+              "id": "4",
+              "title": "尚书执行",
+              "status": "not-started"
+            },
+            {
+              "id": "5",
+              "title": "回奏",
+              "status": "not-started"
+            }
+          ],
+          "state": "Zhongshu",
+          "org": "中书省"
+        }
+      ],
+      "outputMeta": {
+        "exists": true,
+        "lastModified": "2026-03-15 13:21:24"
+      },
+      "heartbeat": null
+    },
+    {
+      "id": "JJC-20260315-001",
+      "title": "知识库每日回顾-进化建议",
+      "official": "中书令",
+      "org": "尚书省",
+      "state": "Done",
+      "now": "知识库每日回顾完成，尚书省提出5条进化建议待决策",
+      "eta": "-",
+      "block": "无",
+      "output": "5条进化建议",
+      "ac": "",
+      "flow_log": [
+        {
+          "at": "2026-03-15T14:00:45.849397Z",
+          "from": "皇上",
+          "to": "中书省",
+          "remark": "下旨：知识库每日回顾-进化建议"
+        },
+        {
+          "at": "2026-03-15T14:03:03.356338Z",
+          "from": "尚书省",
+          "to": "皇上",
+          "remark": "✅ 完成：知识库每日回顾完成，尚书省提出5条进化建议待决策"
+        }
+      ],
+      "updatedAt": "2026-03-15T14:03:03.356361Z",
+      "todos": [
+        {
+          "id": "1",
+          "title": "整理内容",
+          "status": "completed"
+        },
+        {
+          "id": "2",
+          "title": "分析价值",
+          "status": "completed"
+        },
+        {
+          "id": "3",
+          "title": "尚书讨论",
+          "status": "completed"
+        },
+        {
+          "id": "4",
+          "title": "整理建议",
+          "status": "in-progress"
+        },
+        {
+          "id": "5",
+          "title": "回奏皇上",
+          "status": "not-started"
+        }
+      ],
+      "progress_log": [
+        {
+          "at": "2026-03-15T14:01:53.195661Z",
+          "agent": "zhongshu",
+          "agentLabel": "中书省",
+          "text": "已完成知识库内容梳理，准备调用尚书省讨论进化建议",
+          "todos": [
+            {
+              "id": "1",
+              "title": "整理内容",
+              "status": "completed"
+            },
+            {
+              "id": "2",
+              "title": "分析价值",
+              "status": "in-progress"
+            },
+            {
+              "id": "3",
+              "title": "尚书讨论",
+              "status": "not-started"
+            },
+            {
+              "id": "4",
+              "title": "整理建议",
+              "status": "not-started"
+            },
+            {
+              "id": "5",
+              "title": "回奏皇上",
+              "status": "not-started"
+            }
+          ],
+          "state": "Zhongshu",
+          "org": "中书省"
+        },
+        {
+          "at": "2026-03-15T14:02:59.806604Z",
+          "agent": "zhongshu",
+          "agentLabel": "中书省",
+          "text": "收到尚书省进化建议，正在整理回奏",
+          "todos": [
+            {
+              "id": "1",
+              "title": "整理内容",
+              "status": "completed"
+            },
+            {
+              "id": "2",
+              "title": "分析价值",
+              "status": "completed"
+            },
+            {
+              "id": "3",
+              "title": "尚书讨论",
+              "status": "completed"
+            },
+            {
+              "id": "4",
+              "title": "整理建议",
+              "status": "in-progress"
+            },
+            {
+              "id": "5",
+              "title": "回奏皇上",
+              "status": "not-started"
+            }
+          ],
+          "state": "Assigned",
+          "org": "尚书省"
+        }
+      ],
+      "outputMeta": {
+        "exists": false,
+        "lastModified": null
+      },
+      "heartbeat": null
+    },
+    {
+      "id": "JJC-20260315-002",
+      "title": "早安日报测试方案分享",
+      "official": "中书令",
+      "org": "中书省",
+      "state": "Done",
+      "now": "早安日报测试成功，方案已通过飞书发送给太子，脚本已上传GitHub",
+      "eta": "-",
+      "block": "无",
+      "output": "GitHub仓库+飞书消息",
+      "ac": "",
+      "flow_log": [
+        {
+          "at": "2026-03-15T03:18:21.735484Z",
+          "from": "皇上",
+          "to": "中书省",
+          "remark": "下旨：早安日报测试方案分享"
+        },
+        {
+          "at": "2026-03-15T03:18:25.155061Z",
+          "from": "中书省",
+          "to": "皇上",
+          "remark": "✅ 完成：早安日报测试成功，方案已通过飞书发送给太子，脚本已上传GitHub"
+        }
+      ],
+      "updatedAt": "2026-03-15T03:18:25.155083Z",
+      "outputMeta": {
+        "exists": false,
+        "lastModified": null
+      },
+      "heartbeat": null
+    },
     {
       "id": "JJC-20260314-001",
       "title": "知识库每日回顾",
@@ -293,7 +581,7 @@
       "updatedAt": "2026-03-12T14:30:17.366200Z",
       "outputMeta": {
         "exists": true,
-        "lastModified": "2026-03-15 10:07:09"
+        "lastModified": "2026-03-15 13:21:24"
       },
       "heartbeat": null
     },
@@ -337,7 +625,7 @@
       "updatedAt": "2026-03-12T14:01:18.817289Z",
       "outputMeta": {
         "exists": true,
-        "lastModified": "2026-03-15 10:07:09"
+        "lastModified": "2026-03-15 13:21:24"
       },
       "heartbeat": null
     },
@@ -427,7 +715,7 @@
       ],
       "outputMeta": {
         "exists": true,
-        "lastModified": "2026-03-15 10:07:09"
+        "lastModified": "2026-03-15 13:21:24"
       },
       "heartbeat": null
     },
@@ -517,12 +805,12 @@
       ],
       "outputMeta": {
         "exists": true,
-        "lastModified": "2026-03-15 10:07:09"
+        "lastModified": "2026-03-15 13:21:24"
       },
       "heartbeat": {
         "status": "stalled",
-        "label": "🔴 已停滞 3850分钟",
-        "ageSec": 231055
+        "label": "🔴 已停滞 4570分钟",
+        "ageSec": 274236
       }
     },
     {
@@ -1020,12 +1308,26 @@
       ],
       "outputMeta": {
         "exists": true,
-        "lastModified": "2026-03-15 10:07:09"
+        "lastModified": "2026-03-15 13:21:24"
       },
       "heartbeat": null
     }
   ],
   "history": [
+    {
+      "at": "未知",
+      "official": "中书令",
+      "task": "知识库每日回顾-进化建议",
+      "out": "5条进化建议",
+      "qa": "待补成果"
+    },
+    {
+      "at": "未知",
+      "official": "中书令",
+      "task": "早安日报测试方案分享",
+      "out": "GitHub仓库+飞书消息",
+      "qa": "待补成果"
+    },
     {
       "at": "未知",
       "official": "中书令",
@@ -1041,14 +1343,14 @@
       "qa": "待补成果"
     },
     {
-      "at": "2026-03-15 10:07:09",
+      "at": "2026-03-15 13:21:24",
       "official": "尚书令",
       "task": "配置知识库每日回顾",
       "out": "",
       "qa": "通过"
     },
     {
-      "at": "2026-03-15 10:07:09",
+      "at": "2026-03-15 13:21:24",
       "official": "中书令",
       "task": "部署微信文章抓取工具",
       "out": "",
@@ -1071,8 +1373,8 @@
   ],
   "metrics": {
     "officialCount": 0,
-    "todayDone": 2,
-    "totalDone": 6,
+    "todayDone": 4,
+    "totalDone": 8,
     "inProgress": 0,
     "blocked": 0
   },
