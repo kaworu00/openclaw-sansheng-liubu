@@ -1,5 +1,10 @@
 # TOOLS.md - Local Notes
 
+## 系统信息
+- **OS:** Ubuntu (Linux)
+- **主机名:** kaworu-MINI-PC
+- **工作目录:** /home/kaworu/.openclaw/workspace-zhongshu/
+
 Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
 
 ## What Goes Here
