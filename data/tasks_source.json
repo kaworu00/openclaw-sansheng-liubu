@@ -18,12 +18,13 @@
         "remark": "下旨：三审工作流+CLI-Anything落地"
       }
     ],
-    "updatedAt": "2026-03-15T14:07:56.579179Z",
+    "updatedAt": "2026-03-15T14:12:29.104194Z",
     "todos": [
       {
         "id": "1",
-        "title": "调研现状",
-        "status": "completed"
+        "title": "提取8个案例完整提示词",
+        "status": "completed",
+        "detail": "已提取8个AI生图提示词模板并保存到知识库"
       },
       {
         "id": "2",
