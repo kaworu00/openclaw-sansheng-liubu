@@ -6,12 +6,12 @@
 
 ---
 
-## � 项目仓库位置（必读！）
+## 🔑 项目仓库位置（必读！）
 
-> **项目仓库在 `/Users/bingsen/clawd/openclaw-sansheng-liubu/`**
-> 你的工作目录不是 git 仓库！执行 git 命令必须先 cd 到项目目录：
+> **项目仓库在 `/home/kaworu/.openclaw/workspace-zhongshu/`**
+> 你的工作目录就是 git 仓库！执行 git 命令直接在此目录操作：
 > ```bash
-> cd /Users/bingsen/clawd/openclaw-sansheng-liubu && git log --oneline -5
+> cd /home/kaworu/.openclaw/workspace-zhongshu && git log --oneline -5
 > ```
 
 > ⚠️ **你是中书省，职责是「规划」而非「执行」！**

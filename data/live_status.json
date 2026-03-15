@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14 22:03:20",
+  "generatedAt": "2026-03-15 10:08:15",
   "taskSource": "tasks_source.json",
   "officials": [],
   "tasks": [
@@ -293,7 +293,7 @@
       "updatedAt": "2026-03-12T14:30:17.366200Z",
       "outputMeta": {
         "exists": true,
-        "lastModified": "2026-03-13 14:06:03"
+        "lastModified": "2026-03-15 10:07:09"
       },
       "heartbeat": null
     },
@@ -337,7 +337,7 @@
       "updatedAt": "2026-03-12T14:01:18.817289Z",
       "outputMeta": {
         "exists": true,
-        "lastModified": "2026-03-13 14:06:03"
+        "lastModified": "2026-03-15 10:07:09"
       },
       "heartbeat": null
     },
@@ -347,7 +347,7 @@
       "official": "中书令",
       "org": "中书省",
       "state": "Zhongshu",
-      "now": "中书省已接旨",
+      "now": "项目仓库已推送至GitHub，中书省可远程协作",
       "eta": "-",
       "block": "无",
       "output": "",
@@ -360,10 +360,74 @@
           "remark": "下旨：收录文章到知识库"
         }
       ],
-      "updatedAt": "2026-03-12T13:22:19.483606Z",
+      "updatedAt": "2026-03-15T02:08:15.408287Z",
+      "todos": [
+        {
+          "id": "1",
+          "title": "接旨分析",
+          "status": "not-started"
+        },
+        {
+          "id": "2",
+          "title": "起草方案",
+          "status": "not-started"
+        },
+        {
+          "id": "3",
+          "title": "门下审议",
+          "status": "not-started"
+        },
+        {
+          "id": "4",
+          "title": "尚书执行",
+          "status": "not-started"
+        },
+        {
+          "id": "5",
+          "title": "回奏",
+          "status": "not-started"
+        }
+      ],
+      "progress_log": [
+        {
+          "at": "2026-03-15T02:08:15.408287Z",
+          "agent": "zhongshu",
+          "agentLabel": "中书省",
+          "text": "项目仓库已推送至GitHub，中书省可远程协作",
+          "todos": [
+            {
+              "id": "1",
+              "title": "接旨分析",
+              "status": "not-started"
+            },
+            {
+              "id": "2",
+              "title": "起草方案",
+              "status": "not-started"
+            },
+            {
+              "id": "3",
+              "title": "门下审议",
+              "status": "not-started"
+            },
+            {
+              "id": "4",
+              "title": "尚书执行",
+              "status": "not-started"
+            },
+            {
+              "id": "5",
+              "title": "回奏",
+              "status": "not-started"
+            }
+          ],
+          "state": "Zhongshu",
+          "org": "中书省"
+        }
+      ],
       "outputMeta": {
         "exists": true,
-        "lastModified": "2026-03-13 14:06:03"
+        "lastModified": "2026-03-15 10:07:09"
       },
       "heartbeat": null
     },
@@ -453,12 +517,12 @@
       ],
       "outputMeta": {
         "exists": true,
-        "lastModified": "2026-03-13 14:06:03"
+        "lastModified": "2026-03-15 10:07:09"
       },
       "heartbeat": {
         "status": "stalled",
-        "label": "🔴 已停滞 3125分钟",
-        "ageSec": 187559
+        "label": "🔴 已停滞 3850分钟",
+        "ageSec": 231055
       }
     },
     {
@@ -956,7 +1020,7 @@
       ],
       "outputMeta": {
         "exists": true,
-        "lastModified": "2026-03-13 14:06:03"
+        "lastModified": "2026-03-15 10:07:09"
       },
       "heartbeat": null
     }
@@ -977,14 +1041,14 @@
       "qa": "待补成果"
     },
     {
-      "at": "2026-03-13 14:06:03",
+      "at": "2026-03-15 10:07:09",
       "official": "尚书令",
       "task": "配置知识库每日回顾",
       "out": "",
       "qa": "通过"
     },
     {
-      "at": "2026-03-13 14:06:03",
+      "at": "2026-03-15 10:07:09",
       "official": "中书令",
       "task": "部署微信文章抓取工具",
       "out": "",
@@ -1007,7 +1071,7 @@
   ],
   "metrics": {
     "officialCount": 0,
-    "todayDone": 1,
+    "todayDone": 2,
     "totalDone": 6,
     "inProgress": 0,
     "blocked": 0
